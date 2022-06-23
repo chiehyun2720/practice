@@ -5,10 +5,14 @@ header{
 	
 }
 .title_container{
-	margin:20% 0% 20% 10%;
+    margin-top: 30%;
+    margin-right: 30%;
+    margin-left: 20%;
+    /* [disabled]margin-bottom: 8%; */
 }
 
 .title{
+    width: 220px;
 	
 }
 
